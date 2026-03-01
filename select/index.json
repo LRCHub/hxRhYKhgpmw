@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ペンタトニック(MORE MORE JUMP！ ver.)",
+  "base_artist": "MORE MORE JUMP！",
+  "createdAt": "2026-03-01T04:24:08.218734Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ペンタトニック(MORE MORE JUMP! ver.)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": false,
+      "path": "select/pl_01_ペンタトニック(MORE_MORE_JUMP!_ver.)_MORE_MORE_JUMP!.txt"
+    }
+  ]
+}
